@@ -2,8 +2,14 @@
 
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif"/>
 </div>
+
+
+<a href="https://www.linkedin.com/in/wallacead/" rel="nofollow">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 
 **bluewallumich/bluewallumich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
