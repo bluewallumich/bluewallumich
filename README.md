@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Adrian, another aspirating (aspiring) Data Scientist.  Welcome to my site.  
 
 
 <div id="header" align="center">
